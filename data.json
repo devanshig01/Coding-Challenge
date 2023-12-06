@@ -1,0 +1,12 @@
+[
+    {"state": "California", "region": "West", "pop": 2312312321, "pop_male": 3123123, "pop_female": 123123},
+    {"state": "Texas", "region": "South", "pop": 1311312121, "pop_male": 14477622, "pop_female": 14667883},
+    {"state": "Florida", "region": "South", "pop": 21538187, "pop_male": 800000, "pop_female": 12},
+    {"state": "New York", "region": "Northeast", "pop": 4563626172, "pop_male": 12839, "pop_female": 1222222222},
+    {"state": "Massachusetts", "region": "Northeast", "pop": 18384575, "pop_male": 6366733, "pop_female": 6635977},
+    {"state": "Illinois", "region": "Midwest", "pop": 1284756, "pop_male": 6316899, "pop_female": 6495611},
+    {"state": "Nebraska", "region": "Midwest", "pop": 12849, "pop_male": 38485, "pop_female": 1429499595},
+    {"state": "Georgia", "region": "South", "pop": 1940082, "pop_male": 1248, "pop_female": 12},
+    {"state": "Alabama", "region": "South", "pop": 57683939, "pop_male": 0, "pop_female": 57683939},
+    {"state": "Michigan", "region": "Midwest", "pop": 128447, "pop_male": 1238588, "pop_female": 128475}
+]
