@@ -23,7 +23,7 @@ Valid Nested Query
 
 ```
 Enter your SQL query. Type 'quit' to quit.
-> SQL SELECT * FROM table WHERE pop > 1000000000 OR (pop > 1000000 AND region = 'Midwest')'
+SQL> SELECT * FROM table WHERE pop > 1000000000 OR (pop > 1000000 AND region = 'Midwest')'
 [
   {
     "state": "California",
@@ -54,13 +54,13 @@ Enter your SQL query. Type 'quit' to quit.
     "pop_female": 6495611
   }
 ]
->SQL <Enter Another Query here>
+SQL> <Enter Another Query here>
 ```
 
 Invalid Query
 
 ```
->SQL hello
+SQL> hello
 Invalid Query - please try again or type 'quit' to quit.
 SQL>
 
