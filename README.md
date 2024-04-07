@@ -6,7 +6,7 @@ To run the file, have the data and the Challenge.py file in the same directory.
 The code must be run in the following format:
 
 ```
-python Challenge.py data.json
+python SQLParser.py data.json
 
 ```
 
