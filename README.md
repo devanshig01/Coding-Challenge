@@ -1,5 +1,5 @@
-## Coding-Challenge
-Contains the Parser and Executer in Challenge.py and the data I made up in data.json
+## Model
+Contains the Parser and Executer in SQLParser.py and the data I made up in data.json
 
 # Running the File
 To run the file, have the data and the Challenge.py file in the same directory. 
